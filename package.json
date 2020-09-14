@@ -1,0 +1,15 @@
+{
+  "name": "fair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start":"node api.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
